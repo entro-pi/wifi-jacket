@@ -1,0 +1,10 @@
+This is a jacket that shows the current radio signal strength at a given location.
+
+It's not limited to wifi/radio/cell, and has the ability to switch between
+the three. (and any more I can find sensors for)
+
+A line of LEDs run up the right or left arm of the jacket, and can
+be switched so "full" brightness is either the most signal, or the
+least.
+
+It is currently in imagination stage.
